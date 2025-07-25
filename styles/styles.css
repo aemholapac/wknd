@@ -734,6 +734,9 @@ main > .section[data-sec-full-width="true"] > div {
 main .section.bg-default {
   background-color: var(--background-color);
 }
+main .section.bg-blue {
+  background: linear-gradient(103deg, rgb(30, 141, 222) 0%, rgb(20, 88, 145) 100%);
+}
 main .section.bg-theme {  
   background-color: var(--main-accent-color);
   color: var(--text-color);
