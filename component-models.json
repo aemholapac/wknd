@@ -355,6 +355,10 @@
             "value": "bg-default"
           },
           {
+            "name": "Blue Color",
+            "value": "bg-blue"
+          },          
+          {
             "name": "Theme Color",
             "value": "bg-theme"
           },
